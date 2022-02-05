@@ -1,3 +1,7 @@
+'''
+pip install tk
+'''
+
 import tkinter as tk
 from findCEP import searchCEP
 
